@@ -6,7 +6,7 @@ public class Teste_Divisao {
 		calculadora calc = new calculadora();
 		
 		//cenario de teste 1:Divisão de dois valores.
-		double div = calc.divisao(4, 2);
+		int div = calc.divisao(4, 2);
 		System.out.println(div);
 		
 		//cenario de teste 2: Divisão de dois valores sendo o dividendo menor que o divisor.
