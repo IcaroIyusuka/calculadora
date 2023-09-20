@@ -1,9 +1,9 @@
-#Calculadora
+# Calculadora
 
-Descrição: 
+# Descrição: 
 Esse codigo foi desenvolvido no eclipse na biblioteca JAVA, que consiste na criação de uma calculadora de números inteiros.
 
-#Funcionalidade:
+# Funcionalidade:
 
 A calculadora funciona com a utilização do package de "classe calculadora", para as execuções dos calculos, assim ela é importada para as outras que são divergidas, de cada execução, como(soma, subtração, divisão e multiplicação).
 Assim em cada classe está nomeada para cada a sua função, ela é pra utilizar nos colchetes, nas situações:
