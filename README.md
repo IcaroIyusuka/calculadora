@@ -1,13 +1,31 @@
-# Calculadora
+# Calculadora - Testes Unitários
+Este é um exemplo de código Java que demonstra como realizar testes unitários para uma classe de calculadora simples. O objetivo é verificar se as operações de soma, subtração, multiplicação e divisão estão funcionando corretamente.
 
-# Descrição: 
-Esse codigo foi desenvolvido no eclipse na biblioteca JAVA, que consiste na criação de uma calculadora de números inteiros.
+## Pré-requisitos
+Certifique-se de que você tenha o ambiente Java configurado corretamente em sua máquina.
+Você deve ter um IDE Java (Eclipse, IntelliJ, etc.) ou uma ferramenta de linha de comando para compilar e executar o código.
 
-# Funcionalidade:
+## Estrutura do Projeto
+O projeto é composto pelos seguintes arquivos:
 
-A calculadora funciona com a utilização do package de "classe calculadora", para as execuções dos calculos, assim ela é importada para as outras que são divergidas, de cada execução, como(soma, subtração, divisão e multiplicação).
-Assim em cada classe está nomeada para cada a sua função, ela é pra utilizar nos colchetes, nas situações:
+calculadora.java: A classe principal que implementa as operações de soma, subtração, multiplicação e divisão.
+calculadora_teste_geral.java: A classe de teste que realiza testes unitários nas operações da calculadora.
+## Executando os Testes
+Clone ou baixe o repositório para a sua máquina local.
 
- "soma = calc.soma(a, b)"
- 
-Na demonstração a acima é a de "soma", substituindo as letras por numeros inteiros para realizar a o calculo, assim em diante entre outras demonstrações,  
+Abra o projeto em seu ambiente de desenvolvimento Java.
+
+Abra o arquivo calculadora_teste_geral.java.
+
+Certifique-se de que a classe calculadora está no mesmo pacote (package) que calculadora_teste_geral. Caso contrário, você precisará ajustar a importação.
+
+Execute o método main em calculadora_teste_geral.java para executar os testes unitários.
+
+## Resultados dos Testes
+Os testes unitários avaliam diferentes cenários para cada operação da calculadora. Os resultados dos testes devem ser exibidos no console, demonstrando se cada cenário de teste passou ou falhou.
+
+Os cenários de teste incluem casos como soma de números positivos, soma com zero, soma com números negativos, subtração, multiplicação e divisão.
+
+## Conclusão
+Este projeto de exemplo demonstra como realizar testes unitários simples em uma classe de calculadora Java. Você pode estender este código e adicionar mais testes para garantir a robustez da sua calculadora em diferentes cenários. Testes unitários são uma parte fundamental do desenvolvimento de software, pois ajudam a identificar e corrigir problemas antes que eles se tornem críticos em um ambiente de produção.
+
