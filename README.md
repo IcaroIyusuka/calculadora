@@ -1,9 +1,10 @@
-# Calculadora - Testes Unitários
-Este é um exemplo de código Java que demonstra como realizar testes unitários para uma classe de calculadora simples. O objetivo é verificar se as operações de soma, subtração, multiplicação e divisão estão funcionando corretamente.
+# Calculadora - Testes
+O objetivo é verificar se as operações de soma, subtração, multiplicação e divisão estão funcionando corretamente, utilizando a linguagem JAVA.
 
 ## Pré-requisitos
 Certifique-se de que você tenha o ambiente Java configurado corretamente em sua máquina.
-Você deve ter um IDE Java (Eclipse, IntelliJ, etc.) ou uma ferramenta de linha de comando para compilar e executar o código.
+
+Você deve ter um IDE Java ou uma ferramenta que compilar e executar o código.
 
 ## Estrutura do Projeto
 O projeto é composto pelos seguintes arquivos:
