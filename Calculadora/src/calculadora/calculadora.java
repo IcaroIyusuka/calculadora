@@ -2,7 +2,7 @@ package calculadora;
 
 public class calculadora {
 	
-	//PAra efetuar o caluculo da soma.
+	//Para efetuar o caluculo da soma.
 	public int somar(int a, int b) {
 		return a + b;
 	}
